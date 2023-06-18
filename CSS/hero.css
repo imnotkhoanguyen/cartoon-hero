@@ -1,0 +1,73 @@
+body{
+	font-family: 'Martian Mono', monospace;
+	margin: 0;
+	font-size: 20px;
+	line-height: 25px;
+}
+header{
+	background-color: black;
+	text-align: center;
+	padding-top:50px ;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Romanesco', cursive;
+}
+header h1{
+	color: white;
+	font-size: 60px;
+	
+}
+
+header img{
+	border-radius: 450px;
+	width: 450px;
+	border: 5px solid #E7EB72;
+
+}
+main{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+main img{
+	max-width: 100%;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	font-family: Martian Mono;
+	font-size: 35px;
+	margin: 40px 0 10px;
+}
+p{
+	font-size: 20px;
+}
+a{
+	color: #140B0A;
+}
+a:hover{
+	color: #BD2110 ;
+}
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+footer a{
+	color: white;
+}
+footer p{
+	margin: 0;
+}
+p.caption{
+	text-align: center;
+	color: #999999;
+	font-size: italic;
+	margin-top: 0;
+
+}
